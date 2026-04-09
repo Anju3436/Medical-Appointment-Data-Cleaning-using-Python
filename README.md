@@ -67,6 +67,7 @@ The goal is to transform raw data into a clean and structured format suitable fo
   ## 📊 Project Output
 
 ![Data Preview](5.PNG)
+![Data Preview](4.Png)
 
 ---
 
