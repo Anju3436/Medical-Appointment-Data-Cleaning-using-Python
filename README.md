@@ -16,6 +16,8 @@ The goal is to transform raw data into a clean and structured format suitable fo
 
 ---
 
+
+
 ## 🎯 Objectives
 - Handle missing values
 - Remove duplicate records
@@ -58,6 +60,13 @@ The goal is to transform raw data into a clean and structured format suitable fo
 - Cleaned dataset is ready for further analysis like:
   - No-show prediction
   - Patient behavior analysis
+ 
+ 
+---
+ 
+  ## 📊 Project Output
+
+![Data Preview](image.png)
 
 ---
 
