@@ -3,6 +3,12 @@ Data cleaning and preprocessing of medical appointment dataset using Python (Pan
 
 # 🏥 Medical Appointment Data Cleaning using Python
 
+## 🌐 Live Project
+[Click here to view project](https://anju3436.github.io/Medical-Appointment-Data-Cleaning-using-Python/)
+
+
+---
+
 ## 📌 Project Overview
 This project focuses on cleaning and preprocessing a medical appointment dataset to improve data quality and prepare it for analysis. The dataset contains patient appointment details, including demographics, medical conditions, and appointment outcomes (No-show).
 
