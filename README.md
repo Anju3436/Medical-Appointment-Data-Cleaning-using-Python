@@ -70,6 +70,7 @@ The goal is to transform raw data into a clean and structured format suitable fo
 
 ![Data Preview](4.PNG)
 ![Data Preview](3.PNG)
+![Data Preview](PROJECT%201.PNG)
 
 ---
 
